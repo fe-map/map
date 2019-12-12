@@ -1,0 +1,6705 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          32.50775,
+          37.87089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Konya",
+        "date": "26/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Kezban Y.",
+        "reason": "Tartşma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/dehset-anlari-once-karisini-vurdu-gundem-2895058/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.63415,
+          36.79988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Mersin",
+        "date": "28/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Filiz Kaplan",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/galeri/ise-giden-kadina-eski-kocadan-kanli-pusu-2896369",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.8862,
+          39.64543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Balıkesir",
+        "date": "27/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Gülnur Yılmaz",
+        "reason": "Annesini Korurken",
+        "req": "Yok",
+        "source": "ttps://www.artigercek.com/haberler/doktor-kizinin-aracini-takip-edip-oldurdu",
+        "who": "Babası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.95185,
+          40.55025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Çorum",
+        "date": "30/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Gökçen Ş.",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/gundem/tek-kelimeyle-vahset-oldurdugu-esinin-cansiz-bedenini-otomobile-koyup-kacti-2897360",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "01/07/2019",
+        "death": "Ateşli Silah",
+        "name": "Şükran Cantaş",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/gundem/unlu-is-adami-karisini-vurup-intihar-etti-2897637",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "10/07/2019",
+        "death": "Ateşli Silah",
+        "name": "Büşra Güçlü",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/gundem/astsubayin-yorgunluk-cinneti-2902457",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.42739,
+          38.61292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Manisa",
+        "date": "15/06/2019",
+        "death": "Darp",
+        "name": "Fatma Akkaya",
+        "reason": "Hırsızlık",
+        "req": "Yok",
+        "source": "ttps://www.dha.com.tr/son-dakika/yasli-kadini-evinde-doverek-olduren-3-kisi-tutuklandi/haber-1662993",
+        "who": "Tanımadığı Birileri"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          41.12791,
+          37.8829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Batman",
+        "date": "14/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Melek Yılmaz",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://t24.com.tr/haber/batman-da-kadin-cinayeti-4-aylik-hamile-karisini-oldurdu,825835",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.70924,
+          36.87896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Antalya",
+        "date": "21/06/2019",
+        "death": "Boğma",
+        "name": "Ketevan Katamadze Dönmez",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/gurcu-kadini-bogarak-olduren-cani-yakalandi-2497284",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "17/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Firdevs S.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/gundem/istanbulda-korkunc-olay-once-sevgilisini-oldurdu-sonra-da-2890752",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.53819,
+          38.75795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Afyonkarahisar",
+        "date": "19/06/2019",
+        "death": "Kesici Alet",
+        "name": "Defne",
+        "reason": "Nefret Cinayeti",
+        "req": "Yok",
+        "source": "ttps://t24.com.tr/haber/afyonkarahisar-da-yasayan-trans-kadin-defne-olduruldu,826663",
+        "who": "Tanımadığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "19/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Şener Akyurt",
+        "reason": "Aldatma Şüphesi",
+        "req": "Yok",
+        "source": "ttps://www.41havadis.com/haber/kendisini-aldattigindan-suphelendigi-karisini-oldurdu-h30715.html",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "17/06/2019",
+        "death": "Kesici Alet",
+        "name": "Derya Yörükoğlu",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/yine-koca-vahseti-karisini-oldurup-intihara-kalkisti-2493988",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.51506,
+          40.97864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Tekirdağ",
+        "date": "17/06/2019",
+        "death": "Kesici Alet",
+        "name": "İnayet Ç.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.haber16.com/tartistigi-annesini-boynundan-bicaklayarak-oldurdu/80386/",
+        "who": "Oğlu, Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.63415,
+          36.79988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Mersin",
+        "date": "18/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Filiz Sarı",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.cnnturk.com/turkiye/mersinde-pompali-dehset-eski-esi-ve-sevgilisini-oldurup-intihar-etti?page=1",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "23/06/2019",
+        "death": "Kesici Alet",
+        "name": "Bağdat Dahır",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://t24.com.tr/haber/adana-da-kadin-cinayeti-16-yasindaki-kiz-kardesinin-bogazini-kesti,827312",
+        "who": "Abisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.50775,
+          37.87089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Konya",
+        "date": "26/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Kezban Yıldız",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.haberler.com/konya-da-cinnet-getiren-kisi-esini-oldurdu-12181793-haberi/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "26/06/2019",
+        "death": "Boğma",
+        "name": "Fıruza Akhmedova",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://beyazgazete.com/video/webtv/guncel-1/fatih-te-kafasina-poset-gecirilerek-oldurulen-kadinin-kimligi-belli-oldu-723669.html",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.63415,
+          36.79988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Mersin",
+        "date": "04/06/2019",
+        "death": "Kesici Alet",
+        "name": "Emel Yalçın",
+        "reason": "Tartışma, Barışma Talebi",
+        "req": "Yok",
+        "source": "ttps://www.aksam.com.tr/yasam/mersinde-bir-kadin-sevgilisi-tarafindan-bicaklanarak-olduruldu/haber-977907",
+        "who": "Eski Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "03/06/2019",
+        "death": "Kesici Alet",
+        "name": "Sarantunya Tsendsuren",
+        "reason": "Kıskançlık",
+        "req": "Yok",
+        "source": "ttps://www.haberler.com/yabanci-uyruklu-kari-koca-birbirini-bicakladi-1-12112608-haberi/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.37516,
+          37.06252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Gaziantep",
+        "date": "04/06/2019",
+        "death": "Tespit EdilemeyenNotlar: Şüpheli Ölüm",
+        "name": "Derya H.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.iha.com.tr/haber-gaziantepte-kadin-cesedi-bulundu-783459/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.31982,
+          38.349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Malatya",
+        "date": "10/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Fatma Aybar",
+        "reason": "Husumet",
+        "req": "Yok",
+        "source": "ttp://www.diyarbakirsoz.com/turkiye/polis-ve-annesi-olduruldu-195950",
+        "who": "Tanıdığı Birileri"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.33734,
+          41.28104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Samsun",
+        "date": "06/06/2019",
+        "death": "Ateşl Silah",
+        "name": "Remziye Bakımlı",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.samsuncanlihaber.com/goruntulu-evini-bastigi-kadini-oldurdu-kocasini-yaraladi-video,12370.html",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.50775,
+          37.87089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": " Konya",
+        "date": "28/06/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Şeyma Sarı",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.takvim.com.tr/webtv/video-haber/video/konyada-platonik-vahseti-seyma-ogretmeni-ve-kiz-kardesini-oldurdu",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.50775,
+          37.87089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Konya",
+        "date": "28/06/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Tuğba Sarı",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.dailymotion.com/video/x7c31s3",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "28/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Derya Oğan",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberler.com/karisini-olduren-sahis-kendini-vurarak-intihar-12192515-haberi/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.95185,
+          40.55025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Çorum",
+        "date": "30/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Gökcen Şişman",
+        "reason": "Boşanma Talebi ",
+        "req": "Yok",
+        "source": "ttps://www.sabah.com.tr/galeri/yasam/corumda-koca-vahset-oldurdugu-esinin-cansiz-bedenini-otomobile-koyup-kacti",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.39007,
+          40.77629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Sakarya",
+        "date": "16/06/2019",
+        "death": "Ateşli SilahNotlar: Şüpheli Ölüm",
+        "name": "N.S.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberler.com/sakarya-da-kazara-vuruldugu-iddia-edilen-kadin-12150755-haberi/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          33.5125,
+          39.84058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kırıkkale",
+        "date": "18/08/2019",
+        "death": "Kesici Alet",
+        "name": "Emine Bulut",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/turkiyeyi-aglatti-eski-esinin-bicakladigi-emine-bulutun-son-sozleri-olmek-istemiyorum-41310633",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.50775,
+          37.87089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Konya",
+        "date": "22/08/2019",
+        "death": "Kesici Alet",
+        "name": "Tuba Erkol",
+        "reason": "Tartışma",
+        "req": "Var",
+        "source": "ttps://t24.com.tr/haber/konya-da-kadin-cinayeti-uzaklastirma-karari-bulunan-erkek-esini-20-yerinden-bicaklayarak-oldurdu,836016",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.83252,
+          37.84087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Aydın",
+        "date": "16/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Merve Kotan",
+        "reason": "Tartışma, Ayrılma Talebi",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/mervenin-olumunde-kahreden-detaylar-5285450/",
+        "who": "Eski Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.54609,
+          37.78316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Isparta",
+        "date": "15/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Asiye Aydoğmuş",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.cnnturk.com/turkiye/damat-dehseti-kavgayi-ayirmak-isteyen-muhtari-da-oldurdu",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.54609,
+          37.78316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Isparta",
+        "date": "15/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Ayşe Adıgüzel",
+        "reason": "Tartışma, Bir kadını korurken",
+        "req": "Yok",
+        "source": "ttps://www.cnnturk.com/turkiye/damat-dehseti-kavgayi-ayirmak-isteyen-muhtari-da-oldurdu",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.70924,
+          36.87896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Antalya",
+        "date": "19/03/2019",
+        "death": "Ateşli Silah",
+        "name": "Nihal Işıldar",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/esini-oldurup-gidin-evden-alin--gundem-2844993/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.37516,
+          37.06252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Gaziantep",
+        "date": "19/03/2019",
+        "death": "Darp, Boğma",
+        "name": "Saadet Kocaoğlan",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/esini-bogarak-oldurdu-basinda-gundem-2844824/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.55088,
+          40.31395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Tokat",
+        "date": "20/03/2019",
+        "death": "Ateşli Silah",
+        "name": "Mine Topçu",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/erkek-arkadasi-tarafindan-vurulan-gundem-2845452/",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "20/03/2019",
+        "death": "Yüksekten DüşmeNotlar: Şüpheli Ölüm",
+        "name": "Ebru Erdem",
+        "reason": "Tespit Edilemeyen",
+        "req": "Tespit Edilemeyen",
+        "source": "ttp://www.milliyet.com.tr/istanbul-da-rezidansta-dehset-kan-gundem-galeri-2845198/http://www.milliyet.com.tr/luks-rezidanstaki-sir-olumle-gundem-2845957/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.83252,
+          37.84087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Aydın",
+        "date": "22/03/2019",
+        "death": "Boğma",
+        "name": "Zeynep Ö.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/o-ilimizde-koca-dehseti-esini-gundem-2846830/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          41.26724,
+          39.90564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Erzurum",
+        "date": "26/03/2019",
+        "death": "Ateşli Silah",
+        "name": "Seher P.",
+        "reason": "Reddedilme",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/3-cocugunun-annesini-sokak-gundem-2848519/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.50775,
+          37.87089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Konya",
+        "date": "27/03/2019",
+        "death": "Ateşli Silah",
+        "name": "Müslime B.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/esini-oldurup-intihara-kalkisti--gundem-2849073/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.22469,
+          41.73589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kırklareli",
+        "date": "29/03/2019",
+        "death": "Darp",
+        "name": "Zeynep Esin",
+        "reason": "Tespit Edilmeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/kan-donduran-vahsette-yeni-gelisme--gundem-2850059/",
+        "who": "Kuzeni"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.83252,
+          37.84087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Aydın",
+        "date": "28/02/2019",
+        "death": "Ateşli Silah",
+        "name": "Dilek Atalay",
+        "reason": "Bir kızı tacizden koruduğu için",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/olmesini-beklerken-sigarasini-gundem-2852554/",
+        "who": "Tanımadığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.83252,
+          37.84087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Aydın",
+        "date": "04/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Hamide Gezer",
+        "reason": "Ayrılma Talebi",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/hamide-yi-olduren-zanli-adliyede-gundem-2853389/",
+        "who": "Sevgilsi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "05/04/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Najia Arabzai",
+        "reason": "Reddedilme",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/kendisiyle-evlenmiyor-diye-gundem-2853700/",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.63415,
+          36.79988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Mersin",
+        "date": "08/04/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Eda K.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.anitsayac.com/?keyword=eda",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.05865,
+          40.18437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bursa",
+        "date": "08/04/2019",
+        "death": "Boğma",
+        "name": "Hayat Hattab",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/korkunc-cinayet-komsulari-bagris-gundem-2855379/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.94957,
+          40.77542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kocaeli",
+        "date": "04/03/2019",
+        "death": "Ateşli Silah",
+        "name": "Ayşe Dayıoğlu",
+        "reason": "Kızını Korurken",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/katliam-yapti-esi-kacarak-kurtuldu-41137302",
+        "who": "Damadı"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "05/03/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Kezban Ercan",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.haber7.com/guncel/haber/2838948-korkunc-cinayet-anne-ve-kizi-evlerinde-olduruldu",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "05/03/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Ayşe Solmaz",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.haber7.com/guncel/haber/2838948-korkunc-cinayet-anne-ve-kizi-evlerinde-olduruldu",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.64104,
+          40.98579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Maltepe",
+        "date": "07/03/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "İsmi Bilinmiyor",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.gercekgundem.com/guncel/76360/golette-kadin-cesedi-bulundu",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.16436,
+          39.14805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kırşehir",
+        "date": "12/03/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Fikar Talu",
+        "reason": "Para",
+        "req": "Yok",
+        "source": "ttps://www.yeniakit.com.tr/haber/kirsehirde-kaybolan-kadin-kirikkalede-oldurulmus-halde-bulundu-652623.html",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.06016,
+          38.49362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Çiğli",
+        "date": "05/03/2019",
+        "death": "Ateşli Silah",
+        "name": "Ayyuş Çetin",
+        "reason": "Ayrılma Talebi",
+        "req": "Yok",
+        "source": "ttps://www.haberekspres.com.tr/izmir/15-yillik-sevgilisini-oldurup-intihar-etti-h124376.html",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          41.26724,
+          39.90564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Erzurum",
+        "date": "26/03/2019",
+        "death": "Ateşli Silah",
+        "name": "Seher Polat",
+        "reason": "Reddedilme",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/3-cocugunun-annesine-sokak-ortasinda-3-kursun-2414749",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.63415,
+          36.79988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Mersin",
+        "date": "21/03/2019",
+        "death": "Kesici Alet",
+        "name": "Ayni D.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/mersin-de-cinnet-getiren-kisi-anne-babasini-oldurdu-2409661",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.63415,
+          36.79988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Mersin",
+        "date": "14/03/2019",
+        "death": "Vurucu Alet",
+        "name": "Leyli E.",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/mersinde-koca-dehseti-tahrayla-oldurdu-cocuklari-komsulardan-yardim-istedi-41148738",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          40.50609,
+          38.88482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bingöl",
+        "date": "08/05/2019",
+        "death": "Ateşli Silah",
+        "name": "Songül D.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/vahset-evi-baba-katliam-yapti--gundem-2870471/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "07/05/2019",
+        "death": "Vurucu Alet, Kesici Alet",
+        "name": "Dilek Zengin",
+        "reason": "Boşanma Talebi ",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/kizi-baltayla-oldurulen-baba-gel-gundem-2869901/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.12422,
+          36.62697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Fetyhiye",
+        "date": "27/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Gamze Ünlü",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/bilmeden-kizini-olume-yollamis--gundem-2869744/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "07/05/2019",
+        "death": "Kesici Alet",
+        "name": "Billur Cucur",
+        "reason": "Tartışma, Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/bosanma-asamasinda-oldugu-karisini-gundem-2869463/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.04059,
+          39.91929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Iğdır",
+        "date": "03/05/2019",
+        "death": "Ateşli Silah",
+        "name": "Zeynep Paşaoğlu",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/esini-oldurup-firar-etti-gundem-2867981/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.51506,
+          40.97864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Tekirdağ",
+        "date": "02/05/2019",
+        "death": "Kesici Alet",
+        "name": "Naciye Saygın",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/72-yasini-kadini-25-yerinden-gundem-2867545/",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "20/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Arzu Sabancaoğlu",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/ailesini-mahvetti-41189313",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "15/05/2019",
+        "death": "Zehirlenme",
+        "name": "Fatma Kalkan",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/deney-demisti-cinayet-cikti--gundem-2874205/",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.70924,
+          36.87896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Antalya",
+        "date": "15/05/2019",
+        "death": "Kesici Alet",
+        "name": "Gökçe Saygı",
+        "reason": "KıskançlıK",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/whatsapp-durumundan-vahset-cikti--gundem-2873751/",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          39.5468,
+          39.10078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Tunceli",
+        "date": "16/03/2019",
+        "death": "Ateşli Silah",
+        "name": "Sibel Bektaş",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/kan-donduran-olay-esini-ve-oglunu-gundem-2843599/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.05865,
+          40.18437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bursa",
+        "date": "19/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Nazan Kırkgöz",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/bursa-da-korkunc-olay-genc-kadin-gundem-2891645/",
+        "who": "Tespit Edlemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "26/06/2019",
+        "death": "Boğma",
+        "name": "İsmi Bilinmiyor",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/istanbul-da-sabah-soku-genc-kadin-gundem-2895109/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.85393,
+          39.92109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ankara",
+        "date": "03/08/2019",
+        "death": "İlaçNotlar: Şüpheli Ölüm",
+        "name": "Ayşe Karaman",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/anestezi-teknikeri-aysenin-olumunde-michael-jackson-detayi-5264108/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.85393,
+          39.92109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ankara",
+        "date": "02/08/2019",
+        "death": "Kesici Alet",
+        "name": "Feher Alipoor",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/baskentte-sokak-ortasinda-korkunc-cinayet-5261778/",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "02/08/2019",
+        "death": "Yüksekten DüşmeNotlar: Şüpheli Ölüm",
+        "name": "Fardıs Golrokh",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/kartalda-vahsi-cinayet-bacaklari-kopuk-kadin-cesedi-bulundu-5260938/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.48351,
+          38.72092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kayseri",
+        "date": "01/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Gülay Şimşek",
+        "reason": "Tartışma, Ayrılma Talebi",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/4-kursunla-oldurulen-gulay-simsek-katilinin-videosunu-cekti-5259996/https://www.sozcu.com.tr/2019/gundem/kayseride-genc-kadina-infaz-5259278/",
+        "who": "Eski Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.40448,
+          40.14858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Çanakkale",
+        "date": "25/07/2019",
+        "death": "Ateşli Silah",
+        "name": "Fatma Aydoğdu",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/esi-ve-oglunu-tabanca-ile-vurarak-oldurmustu-tutuklandi-5249829/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "25/07/2019",
+        "death": "Kesici Alet",
+        "name": "Mürvet İ.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/babaannesini-oldurdu-kahveye-cay-icmeye-gitti-5248845/",
+        "who": "Torunu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.94957,
+          40.77542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kocaeli",
+        "date": "25/07/2019",
+        "death": "Ateşli Silah",
+        "name": "Nuray Anar",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/babaannesini-oldurdu-kahveye-cay-icmeye-gitti-5248845/",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.70924,
+          36.87896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Antalya",
+        "date": "24/07/2019",
+        "death": "Kesici Alet",
+        "name": "Halime Şenal",
+        "reason": "Kıskançlık",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/manavgattaki-cinayetin-ardindan-kiskanclik-cikti-5247266/",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "23/07/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Saime Durgel",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.cnnturk.com/yerel-haberler/adana/yuregir/seyhan-nehrinde-kadin-cesedi-bulundu-1028752",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.50775,
+          37.87089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Konya",
+        "date": "30/07/2019",
+        "death": "Ateşli Silah",
+        "name": "Zeyneb El Adir",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.bursabakis.com/akillara-durgunluk-veren-olay-250116h.htm",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.63415,
+          36.79988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Mersin",
+        "date": "31/07/2019",
+        "death": "Kesici Alet",
+        "name": "Hatice Kavak",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/mersin-haberleri/70845208-kadinlar-kocasi-tarafindan-oldurulen-hatice-kavak-icin-toplandimersinin-gulnar-ilcesinde-26",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "23/07/2019",
+        "death": "Kesici Alet",
+        "name": "Gülen Pamukçu",
+        "reason": "Ayrılma Talebi",
+        "req": "Yok",
+        "source": "ttps://www.sabah.com.tr/yasam/2019/07/23/son-dakika-haberi-nisanlisi-ile-evlenmekten-vazgecen-1-cocuk-annesi-gulen-pamukcu-vahsice-olduruldu?paging=1",
+        "who": "Eski Nişanlısı"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.94957,
+          40.77542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kocaeli",
+        "date": "31/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Ebru Tenk",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.ozgurkocaeli.com.tr/ebru-tenk-cinayetinin-ayrintilari-ortaya-cikti-382274h.htm",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.07888,
+          37.78519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Denizli ",
+        "date": "18/07/2019",
+        "death": "Darp",
+        "name": "Hasine Şanlı",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.denizligazetesi.com/asayis/denizlide-kadin-cinayeti-hasine-sanli-evinde-olduruldu-sevgilisi-h82236.html",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": " İstanbul",
+        "date": "31/08/2019",
+        "death": "Kesici Alet",
+        "name": "Zeynep Yavuz",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttps://www.ntv.com.tr/turkiye/sultanbeylide-kadin-cinayeti,ZTseBFRuZEqbkZ9YQnW3Ow",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.85393,
+          39.92109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ankara",
+        "date": "05/08/2019",
+        "death": "Kesici Alet",
+        "name": "Özge Sazlı",
+        "reason": "Tespi Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/ankarada-korkunc-cinayet-abisi-oldurdu-41293996",
+        "who": "Abisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": " İstanbul",
+        "date": "09/08/2019",
+        "death": "Yüksekten DüşmeNotlar: Şüpheli Ölüm",
+        "name": "Özge Biraol",
+        "reason": "Tespit Edilemeyn",
+        "req": "Yok",
+        "source": "ttps://www.takvim.com.tr/yasam/2019/08/09/hostes-ozge-birolun-feci-olumu-intihar-mi-kaza-mi-cinayet-mi",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.87897,
+          40.9857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ordu",
+        "date": "29/08/2019",
+        "death": "Boğma",
+        "name": "Meryem K.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.cnnturk.com/turkiye/orduda-kan-donduran-olay-annesini-bogarak-oldurdu-112yi-arayip-yardim-istedi",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "05/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Meryem D.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.sabah.com.tr/yasam/2019/08/05/adanada-bir-ay-once-kocasi-tarafindan-vurulan-kadin-oldu",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.50671,
+          39.78267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Eskişehir",
+        "date": "06/08/2019",
+        "death": "Kesici Alet",
+        "name": "Ulviye İnce",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.ensonhaber.com/eskisehirde-sevgilisini-olduren-sahis-tutuklandi.html",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.80768,
+          39.82299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Yozgat",
+        "date": "06/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Nuray Toprak",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://ilerihaber.org/icerik/yozgatta-kadin-cinayeti-bosandigi-erkek-tarafindan-olduruldu-101629.html",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.37516,
+          37.06252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Gaziantep",
+        "date": "07/08/2019",
+        "death": "Kesici Alet",
+        "name": "Zöhre Sevinç",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.iha.com.tr/haber-78-yasindaki-karisini-bicaklayarak-oldurdu-794250/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          33.5125,
+          39.84058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kırıkkale",
+        "date": "07/08/2019",
+        "death": "Ateşli Silah",
+        "name": "İsmi Bilinmiyor",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.evrensel.net/haber/384495/kadin-cinayetleri-artarak-suruyor-dort-ilde-dort-kadin-olduruldu",
+        "who": "Kocası "
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.78527,
+          37.15669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Şanlıurfa",
+        "date": "08/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Rukiye E.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.gunes.com/yasam/sanliurfada-koca-vahseti-8-cocuk-babasi-tartistigi-esi-ile-17-yasindaki-kizini-katletti-1009766",
+        "who": "Babası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.78527,
+          37.15669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Şanlıurfa",
+        "date": "08/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Filiz E.",
+        "reason": "Tarışma",
+        "req": "Yok",
+        "source": "ttp://www.gunes.com/yasam/sanliurfada-koca-vahseti-8-cocuk-babasi-tartistigi-esi-ile-17-yasindaki-kizini-katletti-1009766",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.54609,
+          37.78316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Isparta",
+        "date": "09/08/2019",
+        "death": "Kesici, Delici Alet",
+        "name": "İsmi Bilinmiyor",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.bolgegundem.com/ispartada-oldurulen-kadinin-yol-kenarinda-cesedi-bulundu-962692h.htmhttps://www.timeturk.com/bakici-kadin-merdivenlerde-olu-olarak-bulundu-katil-zanlisi-zihinsel-engelli-kardes-cikti/haber-1165623",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.85393,
+          39.92109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ankara",
+        "date": "10/08/2019",
+        "death": "Kesici Alet, darp, boğma",
+        "name": "Fatma Hülya Yıldız",
+        "reason": "Boşanma Talebi",
+        "req": "Var",
+        "source": "ttps://www.evrensel.net/haber/384666/devlet-korumadi-bosanmak-istedigi-erkek-tarafindan-olduruldu",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.27052,
+          40.65698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Yalova",
+        "date": "17/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Emrah Konal",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/once-sevgilisini-oldurdu-sonra-kendini-asti-5286708/",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          43.05078,
+          39.72081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ağrı",
+        "date": "20/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Emine N.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/agrida-bir-kadin-sokak-ortasinda-olduruldu-41306903",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          39.23577,
+          38.66783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Elazığ",
+        "date": "20/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Kebire Atanmaz",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/elazig-haberleri/71241148-elazigda-3-cocuk-annesi-olduruldumevsimlik-iscilere-cavusluk-yapan-kadin-evinin-onunde",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          41.12791,
+          37.8829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Batman",
+        "date": "23/08/2019",
+        "death": "Darp",
+        "name": "Emel Hac Hüseyin",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/esinin-darbettigi-suriyeli-kadindan-aci-haber-2515800",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.07888,
+          37.78519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Denizli",
+        "date": "29/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Zeynep Atagül",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.denizli24haber.com/haber/denizlide-genc-kadin-tufekle-olduruldu-23076",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          40.2107,
+          37.92445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Diyarbakır",
+        "date": "21/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Halise Narin",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.ntv.com.tr/turkiye/diyarbakirda-3-aile-catisti-6-olu,iEmvVTXzjUyUQqWOvj01nA",
+        "who": "Tanıdığı Birileri"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          40.2107,
+          37.92445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Diyarbakır",
+        "date": "21/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Münevver Narin",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.ntv.com.tr/turkiye/diyarbakirda-3-aile-catisti-6-olu,iEmvVTXzjUyUQqWOvj01nA",
+        "who": "Tanıdığı Birileri"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.81286,
+          41.15525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Çorlu",
+        "date": "31/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Melike Baştürk",
+        "reason": "Boşanm Talebi",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/son-dakika-sokaktaki-kanli-infazdan-yasak-ask-cikti-asker-arkadasi-detayi-sok-etti-haberler-2517934",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.67465,
+          37.96414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Niğde",
+        "date": "29/08/2019",
+        "death": "Tespit EdilemeyenNotlar: Şüpheli Ölüm",
+        "name": "Maryam Hussaını",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.ensonhaber.com/nigdede-olen-afgan-kadinin-cesedi-1-hafta-sonra-bulundu.html",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.67465,
+          37.96414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Niğde",
+        "date": "02/09/2019",
+        "death": "Ateşli Silah",
+        "name": "Sibel Ç.",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttps://www.takvim.com.tr/guncel/2019/09/02/nigdede-kadin-cinayeti-bosanma-asamasindaki-esini-vurduhttp://www.milliyet.com.tr/gundem/ozel-ekip-karaman-konya-ve-ankaraya-yogunlasti-katil-koca-yakalandi-6028632",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          39.23577,
+          38.66783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Elazığ",
+        "date": "05/09/2019",
+        "death": "Ateşli Silah",
+        "name": "Aysun B.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/gundem/kopege-ates-ederken-18-yasindaki-kuzenini-oldurdu-6028633",
+        "who": "Akrabası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "07/09/2019",
+        "death": "Ateşli Sialh",
+        "name": "Özlem Sarıyıldız\n",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/sirtindan-3-kursunla-vurmus-41324194",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.42739,
+          38.61292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Manisa",
+        "date": "14/09/2019",
+        "death": "Ateşli Silah",
+        "name": "Gamze Kurt",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/gamzeyi-saka-yaparken-oldurmus-41330340",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "13/09/2019",
+        "death": "Darp",
+        "name": "Naciye Torunoğlu",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/annesini-oldurup-iki-gun-cesediyle-ayni-evde-kaldi-5332707/",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.05865,
+          40.18437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bursa",
+        "date": "12/09/2019",
+        "death": "Kesici Alet",
+        "name": "Tülin Beygirci",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/evinde-bicakla-oldurulen-tulinin-katili-oz-oglu-cikti-5330699/",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "12/09/2019",
+        "death": "Kesici Alet",
+        "name": "Sultan B.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/ablasini-20-yerinden-bicaklayip-oldurdu-5330081/",
+        "who": "Kardeşi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.67465,
+          37.96414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Niğde",
+        "date": "10/09/2019",
+        "death": "Ateşli Silah",
+        "name": "Asiye Tatlısoy",
+        "reason": "Husumet",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/gece-yarisi-vahset-anne-ve-oglunu-oldurdu-kizini-5327292/",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          31.78482,
+          41.4509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Zonguldak",
+        "date": "09/09/2019",
+        "death": "Ateşli Silah",
+        "name": "Ozodkhon Abdıkarımova ",
+        "reason": "Tespit Edilmeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/pompali-tufekle-kursun-yagdirdi-5325059/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "07/09/2019",
+        "death": "Yüksekten DüşmeNotlar: Şüpheli Ölüm",
+        "name": "Hilal Güneş",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/istanbulda-korkunc-olay-kadin-balkonda-dustu-esi-pesinden-atladi-5322214/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.42739,
+          38.61292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Manisa",
+        "date": "05/09/2019",
+        "death": "Kesici Alet",
+        "name": "Türkan Kulu",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/yine-kadin-cinayeti-cocuklari-da-evdeydi-5318953/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.15872,
+          36.20337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Hatay",
+        "date": "18/09/2019",
+        "death": "Ateşli Silah",
+        "name": "Bilem Doğru",
+        "reason": "Reddedilme",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/kuzeni-baskasiyla-nisanlaninca-dehset-sacti-3-olu-2-agir-yarali-5340755/",
+        "who": "Akrabası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.85393,
+          39.92109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ankara",
+        "date": "19/09/2019",
+        "death": "Kesici Alet",
+        "name": "Meral G.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://t24.com.tr/haber/ankara-da-bir-kadin-evli-oldugu-kisi-tarafindan-cocugunun-gozu-onunde-bicaklanarak-olduruldu,840108",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.15872,
+          36.20337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Hatay",
+        "date": "19/09/2019",
+        "death": "Ateşli Silah",
+        "name": "Kerime Afsal",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/hataydaki-silahli-saldirida-olu-sayisi-4e-yukseldi-41333487",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "19/09/2019",
+        "death": "Ateşli Silah",
+        "name": "Kader A.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/arnavutkoyde-ailesini-katleden-zanlinin-emniyetteki-ifadeleri-kan-dondurdu-5346040/",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "19/09/2019",
+        "death": "Kesici Alet",
+        "name": "Nazlıcan A.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/arnavutkoyde-ailesini-katleden-zanlinin-emniyetteki-ifadeleri-kan-dondurdu-5346040/",
+        "who": "Abisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.71523,
+          38.62284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Nevşehir",
+        "date": "22/09/2019",
+        "death": "Kesici Alet",
+        "name": "Yeter Baysal",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.diken.com.tr/nevsehir-ve-izmirde-kadinlara-eslerinden-bicakli-saldiri-biri-oldu-digeri-agir-yarali/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.05865,
+          40.18437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bursa",
+        "date": "03/07/2019",
+        "death": "Ateşli Silah",
+        "name": "Filiz K.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.sabah.com.tr/yasam/2019/07/03/bursada-kan-donduran-telefon-gel-anneni-oldurdum",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.63415,
+          36.79988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Mersin",
+        "date": "05/07/2019",
+        "death": "Ateşli Silah",
+        "name": "Meryem Aktan",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.cnnturk.com/turkiye/belediye-baskaninin-basindan-vurdugu-meryemden-aci-haber",
+        "who": "Kardeşi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.83459,
+          40.65195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Amasya",
+        "date": "06/07/2019",
+        "death": "Ateşli Silah",
+        "name": "Afet Mammadli",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.memleket.com.tr/amasyada-gurcistan-uyruklu-kadin-evinde-olu-bulundu-1799586h.htm",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.33734,
+          41.28104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Samsun",
+        "date": "24/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Meryem Beykoz",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.takvim.com.tr/guncel/2019/08/24/son-dakika-emine-bulut-cinayetinin-ardindan-bir-vahset-daha-samsunda-bir-sahis-kizi-ve-engelli-esini-oldurdu?paging=1",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.33734,
+          41.28104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Samsun",
+        "date": "24/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Emine Beykoz",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.takvim.com.tr/guncel/2019/08/24/son-dakika-emine-bulut-cinayetinin-ardindan-bir-vahset-daha-samsunda-bir-sahis-kizi-ve-engelli-esini-oldurdu?paging=1",
+        "who": "Babası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          43.73729,
+          37.57222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Hakkari",
+        "date": "09/07/2019",
+        "death": "Ateşli Silah",
+        "name": "A.Ç.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.takvim.com.tr/yasam/2019/07/08/son-dakika-hakkaride-koy-ortasinda-kanli-infaz-anne-ve-14-yasindaki-oglu",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "14/07/2019",
+        "death": "Kesici Alet",
+        "name": "Chen Haiyun\n",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/son-dakika-cinli-kadin-cinayeti-bogazi-kesilip-evi-yakildi-1-kisi-tutuklandi-2504191",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.9281,
+          37.58582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kahramanmaraş",
+        "date": "09/07/2019",
+        "death": "Ateşli Silah",
+        "name": "Müberra Kuzdan",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.yenialanya.com/yasam/otomobilde-esini-vurdu-kazara-oldu-dedi-h372840.html",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.05865,
+          40.18437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bursa",
+        "date": "10/07/2019",
+        "death": "Darp",
+        "name": "Songül Yalçın",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://t24.com.tr/haber/bursa-da-kadin-cinayeti-nisanlisi-tarafindan-dovulen-kadin-hastanede-hayatini-kaybetti,830029",
+        "who": "Nişanlısı"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.51506,
+          40.97864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Tekirdağ",
+        "date": "11/07/2019",
+        "death": "Ateşl Silah",
+        "name": "Elif E.",
+        "reason": "Kıskançlık",
+        "req": "Yok",
+        "source": "ttps://www.internethaber.com/kadin-cinayetlerine-bir-yenisi-esini-oldurdu-sevgilisi-oldugunu-iddia-ettigi-adami-yaraladi-2035784h.htm",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.50775,
+          37.87089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Konya",
+        "date": "13/07/2019",
+        "death": "Ateşli Silah",
+        "name": "Sevim Koç",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.internethaber.com/elinde-tufek-belinde-tabanca-ile-cinayete-boyle-gitmis-2036236h.htm",
+        "who": "Eski Damadı"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "27/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Tuğba Anlak",
+        "reason": "Hırsızlık",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/6-yasindaki-kizinin-gozu-onunde-tetigi-cekti-5303494/http://www.milliyet.com.tr/gundem/yine-ayni-vahset-6-yasindaki-kizinin-gozu-onunde-olduruldu-6023455",
+        "who": "Tanıdığı Birileri"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.63415,
+          36.79988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Mersin",
+        "date": "27/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Ayşe Gür",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/pompali-tufekle-esini-vurup-intihara-kalkisti-5302409/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.50775,
+          37.87089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Konya",
+        "date": "27/08/2019",
+        "death": "Boğma",
+        "name": "Gülsüm Karasu",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/esini-basindaki-esarpla-bogarak-oldurdu-teslim-oldu-5302246/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "25/08/2019",
+        "death": "Ateşli Silah",
+        "name": "İncilay Hayal",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/istanbulda-dehset-3-olu-1-yarali-5299355/",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.8862,
+          39.64543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Balıkesir",
+        "date": "20/08/2019",
+        "death": "Kesici Alet",
+        "name": "Bedriye Kangal",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/gonende-torun-dehseti-5291498/",
+        "who": "Torunu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.8862,
+          39.64543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Balıkesir",
+        "date": "19/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Selin Cebeci",
+        "reason": "Maganda Kurşunu",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/maganda-kursunu-ile-vurulan-selin-hayatini-kaybetti-5289378/",
+        "who": "Tanımadığı Biri"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.27052,
+          40.65698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Yalova",
+        "date": "17/08/2018",
+        "death": "Ateşli Silah",
+        "name": "Emrah Koral",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/once-sevgilisini-oldurdu-sonra-kendini-asti-5286708/",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "17/08/2019",
+        "death": "Ateşli Silah, Darp",
+        "name": "Zümrüt Er",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/eski-esi-dovdu-kayinpederi-pompaliyla-oldurdu-5286645/",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.33734,
+          41.28104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Samsun",
+        "date": "15/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Emine Şahin ",
+        "reason": "Kıskançlık",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/esini-av-tufegi-ile-vurarak-oldurdu-5282589/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.70924,
+          36.87896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Antalya",
+        "date": "14/08/2019",
+        "death": "Kesici Alet",
+        "name": "Kader Ç.",
+        "reason": "Namus",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/ablasini-olduren-gencten-sok-sozler-kotu-yola-dustugunu-sandim-5281895/",
+        "who": "Abisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.48351,
+          38.72092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kayseri",
+        "date": "13/08/2019",
+        "death": "Ateşli Silah",
+        "name": "İfakat Doğan",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/evlatlik-oldugunu-ogrenen-genc-dehset-sacti-5280374/",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.41886,
+          37.03322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bodrum",
+        "date": "09/08/2019",
+        "death": "Ateşli Silah",
+        "name": "Arzu Ertan",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/icradan-ev-alan-genc-kadin-canindan-oldu-5275610/",
+        "who": "Tanımadığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.50671,
+          39.78267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Eskişehir",
+        "date": "05/08/2019",
+        "death": "Kesici Alet",
+        "name": "Ülviye İnce",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/birlikte-yasadigi-kadini-oldurup-ayni-bicakla-intihara-kalkisti-5266556/",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.70924,
+          36.87896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Antalya",
+        "date": "24/09/2019",
+        "death": "Kesici Alet",
+        "name": "İnan B.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/vahsi-cinayetin-ayrintilari-cikti-kilidi-demir-cubukla-kirip-yardim-istemis-annem-hic-kipirdamiyor-41336857",
+        "who": "Kayınbiraderi, Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.71523,
+          38.62284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Nevşehir",
+        "date": "26/09/2019",
+        "death": "Kesici Alet",
+        "name": "Melehat T.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/gundem/esini-uykusunda-bicaklayarak-oldurdu-6040969",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "29/09/2019",
+        "death": "Ateşli SilahNotlar: Şüpheli Ölüm",
+        "name": "Tuğçe Baran",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/gundem/evinde-basindan-vurulan-tugce-hayatini-kaybetti-6042935http://www.milliyet.com.tr/galeri/erkek-arkadasindan-sok-sozler-evde-saka-yaparken-6043370",
+        "who": "Erkek Arkadaşı"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.70924,
+          36.87896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Antalya",
+        "date": "02/10/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "İsmi Bilinmiyor",
+        "reason": "Tespit Edilemeyen",
+        "req": "Tespit Edilemeyen",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/korkunc-olay-belden-yukarisi-yok-bunlarla-teshis-edilecek-5366777/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.98706,
+          39.42087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kütahya",
+        "date": "13/09/2019",
+        "death": "Ateşli Silah",
+        "name": "Burcu Özdemir",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/kutahya-haberleri/71230357-kayinpederi-tarafindan-oldurulen-kadin-topraga-verildi",
+        "who": "Kayınpederi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.05865,
+          40.18437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bursa",
+        "date": "23/09/2019",
+        "death": "Tespit EdilemeyenNotlar: Şüpheli Ölüm",
+        "name": "Hatice Köse",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.bursahayat.com.tr/haber/bursa-da-kiyiya-vuran-kadin-cesedinin-kimligi-aciklandi-232489.html",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.70924,
+          36.87896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Antalya",
+        "date": "24/09/2019",
+        "death": "Darp",
+        "name": "Asiye Güzel",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.mygazete.com/alanya/antalya-ya-sigindi-eski-koca-dehsetinden-kurtulamadi-h32451.html",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          42.70191,
+          41.11281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ardahan",
+        "date": "24/09/2019",
+        "death": "Ateşli SilahNotlar: Şüpheli Ölüm",
+        "name": "Birgül K.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/ardahan-haberleri/71336413-genc-kadin-ahirda-olu-bulundu-esi-gozaltinda",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.85393,
+          39.92109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ankara",
+        "date": "02/10/2019",
+        "death": "Darp, Boğma, Kesici Alet",
+        "name": "Sibel Köksal",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://haber.sol.org.tr/turkiye/bir-kadin-cinayeti-daha-kocasi-tarafindan-olduruldu-269592",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.67465,
+          37.96414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Niğde",
+        "date": "03/09/2019",
+        "death": "Ateşli Silah",
+        "name": "Sibel Çetinel",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttp://www.diken.com.tr/nigdede-kadin-cinayeti-bosanma-asamasindaki-kocasi-tarafindan-cocuklarinin-onunde-olduruldu/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.50775,
+          37.87089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Konya",
+        "date": "03/09/2019",
+        "death": "Ateşli Silah",
+        "name": "Birsen Mıngır",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://ilerihaber.org/icerik/cezaevi-firarisi-evli-oldugu-kadini-oldurdu-102930.html",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.70924,
+          36.87896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Antalya",
+        "date": "03/09/2l019",
+        "death": "Boğma",
+        "name": "Yuliia Bilohub",
+        "reason": "Tespit Edilmeyen",
+        "req": "Yok",
+        "source": "ttps://www.internethaber.com/antalyada-ukraynali-bir-kadin-bogularak-olduruldu-2047393h.htm",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.07888,
+          37.78519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Denizli",
+        "date": "06/09/2019",
+        "death": "Kesici Alet",
+        "name": "Hafize Kurban",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttps://www.denizligazetesi.com/asayis/denizli-de-esi-tarafindan-oldurulen-hafize-kurban-topraga-h83302.html",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.15022,
+          42.02436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Sinop",
+        "date": "04/09/2019",
+        "death": "Ateşli Silah",
+        "name": "Gülşah Karaduman",
+        "reason": "Kaza",
+        "req": "Yok",
+        "source": "ttps://www.aksam.com.tr/guncel/magandalar-catisti-yoldan-gecen-kadin-oldu-yaralilar-var/haber-1002778",
+        "who": "Tanımadığı Birileri"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.40345,
+          40.77212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adapazarı",
+        "date": "09/09/2019",
+        "death": "Kesici Alet",
+        "name": "Ayşen A.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://haber.sol.org.tr/turkiye/adapazarinda-kadin-cinayeti-270042",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "11/09/2019",
+        "death": "Ateşli Silah",
+        "name": "Lütfiye Yüksel",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.yeniakit.com.tr/haber/esi-tarafindan-oldurulen-kadinin-cenazesi-alindi-925239.html",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.50671,
+          39.78267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Eskişehir",
+        "date": "15/09/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "İrem Ayrancı",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.takvim.com.tr/yasam/2019/09/14/eskisehirde-evinde-olu-bulunmustu-iremin-katil-zanlisi-tutuklandi",
+        "who": "Tanımadığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.63169,
+          40.85266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Keşan",
+        "date": "20/09/2019",
+        "death": "Kesici Alet",
+        "name": "Esin Ö.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.medyakesan.com.tr/asayis/evde-tartistigi-annesini-karnindan-bicaklayarak-oldurdu-h29169.html",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          31.78482,
+          41.4509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Zonguldak",
+        "date": "19/09/2019",
+        "death": "Tespit EdilemeyenNotlar: Şüpheli Ölüm",
+        "name": "Sultan Biryan",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/gundem/evinin-yakininda-cesedi-bulunan-kadin-topraga-verildi-6037012",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "21/09/2019",
+        "death": "Kesici Alet",
+        "name": "Kader Aydın",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.mersinhaber.com/haber-cinnet-geciren-genc-annesinibabasini-ve-2-kardesini-bicaklayarak-oldurdu/388086",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "21/09/2019",
+        "death": "Kesici Alet ",
+        "name": "Nazlıcan Aydın",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.mersinhaber.com/haber-cinnet-geciren-genc-annesinibabasini-ve-2-kardesini-bicaklayarak-oldurdu/388086",
+        "who": "Abisi "
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "27/09/2019",
+        "death": "Ateşli SilahNotlar: Şüpheli Ölüm",
+        "name": "Nadira Kadirova",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://odatv.com/akpli-vekilin-evinde-olen-ozbek-kadinin-biraktigi-notta-ne-yaziyor-27091936.html",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.70924,
+          36.87896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Antalya",
+        "date": "26/09/2019",
+        "death": "Kesici Alet",
+        "name": "Gülseren Yılmaz",
+        "reason": "Boşanma Talebi",
+        "req": "Var",
+        "source": "ttps://www.cnnturk.com/turkiye/bosanmak-isteyen-esini-14-yerinden-bicaklayip-oldurdu",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.05865,
+          40.18437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bursa ",
+        "date": "26/09/2019",
+        "death": "Kesici Alet",
+        "name": "Hülya Üstün",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.timeturk.com/guncelleme-bursa-da-erkek-arkadasi-tarafindan-bicaklanan-kadin-oldu/haber-1222676",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "28/09/2019",
+        "death": "Kesici Alet",
+        "name": "Melike Demirci",
+        "reason": "Ayrılma Talebi",
+        "req": "Yok",
+        "source": "ttp://www.haber7.com/guncel/haber/2900909-1-cocuk-annesi-19-yasindaki-genc-kiz-nikahsiz-esi-tarafindan-olduruldu",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.27052,
+          40.65698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Yalova",
+        "date": "27/09/2019",
+        "death": "Kesici Alet",
+        "name": "Seher A.",
+        "reason": "Tartışma, Kıskançlık",
+        "req": "Yok",
+        "source": "ttps://www.gercekgundem.com/guncel/122126/yine-kadin-cinayeti-esini-bogazindan-bicaklayarak-oldurdu",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.40345,
+          40.77212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adapazarı",
+        "date": "29/09/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "A.M.M.A.O. ",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://beyazgazete.com/video/webtv/guncel-1/yabanci-uyruklu-kadin-cinayetinde-4-sahis-tutuklandi-758829.html",
+        "who": "Eşi, Tanıdığı Birileri"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.70924,
+          36.87896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Antalya",
+        "date": "29/09/2019",
+        "death": "Kesici Alet",
+        "name": "Rajae Ait Lhaj",
+        "reason": "Tartışma, Kız kardeşini korumaya çalışırken",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/antalya-haberleri/72215389-karisiyla-kavga-ederken-araya-giren-baldizini-bogazindan-bicaklayarak-oldurduhttps://www.sabah.com.tr/yasam/2019/09/29/karisiyla-kavga-ederken-araya-giren-baldizini-bogazindan-bicaklayarak-oldurdu?paging=1",
+        "who": "Eniştesi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "30/09/2019",
+        "death": "BoğulmaNotlar: Şüpheli Ölüm",
+        "name": "Hayriye Kaya",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.ntv.com.tr/turkiye/baraj-goletine-giren-genc-kadinin-boguldugu-iddiasi,cc1SxrNcUECPWx0lNXvQog",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          43.38034,
+          38.50036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Van",
+        "date": "29/09/2019",
+        "death": "Ateşli Silah",
+        "name": "Figen Keremoğlu",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sabah.com.tr/yasam/2019/09/29/vanda-cinayet-2-olu",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "12/09/2019",
+        "death": "DarpNotlar: Şüpheli Ölüm",
+        "name": "Sabahat Tekinay",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.ntv.com.tr/turkiye/beylikduzunde-bir-parktahemsire-oldugu-ogrenilen-bir-kadinin-cesedi-bulundu,u0ztr5luq0Cazs2D5JkqE",
+        "who": "Tespit Edilmeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "02/10/2019",
+        "death": "Kesici Alet",
+        "name": "Kadriye Ecim",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://t24.com.tr/amp/haber/bir-kadin-evli-oldugu-kisi-tarafindan-bogazi-kesilerek-olduruldu,841916?__twitter_impression=true0",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.48351,
+          38.72092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "kayseri",
+        "date": "07/10/2019",
+        "death": "Kesici Alet",
+        "name": "Cevahir Çay",
+        "reason": "Reddedilme",
+        "req": "Var",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/esini-otobus-duraginda-bicakladi-olmesi-icin-yanina-kimseyi-yaklastirmadi-5374878/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          43.05078,
+          39.72081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ağrı",
+        "date": "06/10/2019",
+        "death": "Ateşli Silah",
+        "name": "Fezile Solmaz",
+        "reason": "Eşinin kuma getirmesini reddettiği için",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/kuma-yuzunden-esini-ve-kizini-oldurmustu-kan-donduran-ifadeler-41346550",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          43.05078,
+          39.72081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ağrı",
+        "date": "06/10/2019",
+        "death": "Ateşli Silah",
+        "name": "Keziban Kaya",
+        "reason": "Annesini Korurken",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/kuma-yuzunden-esini-ve-kizini-oldurmustu-kan-donduran-ifadeler-41346550",
+        "who": "Babası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.53819,
+          38.75795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Afyonkarahisar",
+        "date": "08/10/2019",
+        "death": "Darp",
+        "name": "Huriye Helvacı",
+        "reason": "Para",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/mesire-alanindaki-cinayetin-nedeni-belli-oldu-5378099/",
+        "who": "Tanımadığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "18/03/2019",
+        "death": "Ateşli Silah",
+        "name": "Birgül Bilal",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/birgulun-eski-sevgilisi-tarafindan-vurulma-aninin-goruntuleri-ortaya-cikti-5395876/",
+        "who": "Eski Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.94957,
+          40.77542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kocaeli",
+        "date": "07/02/2019",
+        "death": "Boğma, Yüksekten Atma",
+        "name": "Siwar Keblaw",
+        "reason": "Namas",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/kocaelide-korkunc-olay-3-kattan-atlayan-kiz-kardesini-eve-cikarip-bogdu-41108800http://www.milliyet.com.tr/genc-kizin-olumuyle-ilgili-gundem-2853317/",
+        "who": "Abisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.28245,
+          37.71721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Burdur",
+        "date": "09/02/2019",
+        "death": "Tespit Edilmeyen",
+        "name": "Mesude Haşimi",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/kayip-kadinin-parcalanarak-gundem-2825004/",
+        "who": "Tespit Edilmeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.05865,
+          40.18437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bursa",
+        "date": "07/02/2019",
+        "death": "Kesici Alet",
+        "name": " Saja Jamel Mansur",
+        "reason": "Tartışma",
+        "req": "Var Uzaklaştırma Kararı",
+        "source": "ttp://www.milliyet.com.tr/bolu-da-koca-dehseti-esini-gundem-2824180/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.8862,
+          39.64543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Balıkesir",
+        "date": "07/02/2019",
+        "death": "Kesici Alet",
+        "name": "Meryem Bal",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/ailesinin-yanindan-aldi-habersiz-gundem-2824091/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "07/02/2019",
+        "death": "Kesici Alet",
+        "name": "Esme Aksakal",
+        "reason": "Kıskançlık",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/annesini-olduren-babasindan-gundem-2824036/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "12/02/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "İ.E.K",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/suriyeli-kadinin-katili-agabeyi-gundem-2826558/",
+        "who": "Abisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.95185,
+          40.55025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Çorum",
+        "date": "12/02/2019",
+        "death": "Kesici Alet",
+        "name": "Fatma Sezgin",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/genc-cift-feci-sekilde-olduruldu-41114775",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.55088,
+          40.31395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Tokat",
+        "date": "13/02/2019",
+        "death": "Ateşli Silah",
+        "name": "Alev Yıldırım",
+        "reason": "Reddedilme",
+        "req": "Var Uzaklaştırma Kararı",
+        "source": "ttp://www.milliyet.com.tr/alev-i-bosandigi-esi-kacirip--gundem-2827002/",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.15872,
+          36.20337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Hatay",
+        "date": "25/02/2019",
+        "death": "Ateşli Silah",
+        "name": "Selin Çulha",
+        "reason": "Namus",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/hatay-haberleri/67132108-hatayda-kadin-cinayetine-2-tutuklamaarsuz-ilcesinde-oldurulen-3-cocuk-annesi-selin-culhanin#",
+        "who": "Amcası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "23/12/2019",
+        "death": "Balkondan DüşmeNotlar: Şüpheli Ölüm",
+        "name": "Aysun Yıldırım",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/aysun-cinayete-mi-kurban-gitti--gundem-2799818/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "06/03/2019",
+        "death": "Darp",
+        "name": "Arzu Özkan",
+        "reason": "Öfke",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/umraniye-de-oldurulen-kadinin-gundem-galeri-2838097/?PAGE=1",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.70924,
+          36.87896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Antalya",
+        "date": "06/03/2019",
+        "death": "İntihar",
+        "name": "Zehra Demirin",
+        "reason": "Reddedilme",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/intihara-neden-olan-eski-sevgili-gundem-2838099/",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.42739,
+          38.61292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Manisa",
+        "date": "05/01/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "H.İ.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/dehset-olayi-telefonda-itiraf-etti--gundem-2806865/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "04/01/2019",
+        "death": "Ateşli Silah",
+        "name": "Kader Erenuluğ",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/izmir-de-bir-kadin-basindan-gundem-2805921/",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.28245,
+          37.71721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Burdur",
+        "date": "03/01/2019",
+        "death": "Kesici Alet",
+        "name": "Ganıra Cabbarova",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/burdur-da-yasanan-korkunc-olayda-gundem-galeri-2805792/?PAGE=1",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.50671,
+          39.78267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Eskişehir",
+        "date": "07/01/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Ismi Bilinmiyor",
+        "reason": "Tespit Edilemeyen",
+        "req": "Tespit Edilemeyen",
+        "source": "ttp://www.milliyet.com.tr/eskisehir-de-yol-kenarinda-kadin-gundem-2807684/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.87897,
+          40.9857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ordu",
+        "date": "06/01/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Meşkude Karataş",
+        "reason": "Tespit Edilemeyen",
+        "req": "Tespit Edilemeyen",
+        "source": "ttp://www.milliyet.com.tr/iki-gundur-haber-alinamayan-kadin-gundem-2806991/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "09/01/2019",
+        "death": "Ateşli Silah",
+        "name": "Hande Şeker",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/apartmanda-korkunc-kavga-polis-memuru-trans-bireyi-oldurdu-41077670",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.98706,
+          39.42087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kütahya",
+        "date": "10/01/2019",
+        "death": "Ateşli Silah",
+        "name": "Serpil Erdoğan",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/bir-kadin-cinayeti-daha-41079505",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.31982,
+          38.349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Malatya",
+        "date": "11/01/2019",
+        "death": "Ateşli Silah",
+        "name": "Sibel G.",
+        "reason": "Reddedilme",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/koca-dehseti-hamile-esini-ve-gundem-2810114/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.31982,
+          38.349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Malatya",
+        "date": "11/01/2019",
+        "death": "Ateşli Silah",
+        "name": "Eşe Fatma Yıldırım",
+        "reason": "Kızını Korurken",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/koca-dehseti-hamile-esini-ve-gundem-2810114/",
+        "who": "Damadı"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.43051,
+          40.79977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Gebze",
+        "date": "14/01/2019",
+        "death": "Ateşli Silah",
+        "name": "Suzan Keleş",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/korkunc-cinayetin-ayrintilari-gundem-2811330/",
+        "who": "Babası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "15/01/2019",
+        "death": "Düşme",
+        "name": "Perihan Büyükbayram",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/esrarengiz-olum-oturmadigi-gundem-2811752/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.63169,
+          40.85266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Keşan",
+        "date": "09/01/2019",
+        "death": "Darp",
+        "name": "Didem Uslu",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/kesan-daki-vahsette-flas-gelisme--gundem-2813641/",
+        "who": "Babası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "19/01/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Aysheh Khalil Abdal Alraie",
+        "reason": "Tespit Edilemeyen",
+        "req": "Tespit Edilmeyen",
+        "source": "ttp://www.milliyet.com.tr/agir-koku-yayilan-evdeki-bazadan-gundem-2813508/http://www.milliyet.com.tr/baza-icindeki-kadin-cesedinin-gundem-2813787/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.39007,
+          40.77629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Sakarya",
+        "date": "18/01/2019",
+        "death": "Darp",
+        "name": "Lütfiye H.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/sakarya-da-korkunc-olay-100-gundem-2813342/",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.55624,
+          41.67741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Edirne",
+        "date": "18/01/2019",
+        "death": "Ateşli Silah",
+        "name": "Kübra Olgun Şahin",
+        "reason": "Reddedilme",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/cinayete-kurban-giden-kubra-son-gundem-2813729/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.37516,
+          37.06252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Gaziantep",
+        "date": "25/01/2019",
+        "death": "Kesici Alet",
+        "name": "Hanen Elalevi",
+        "reason": "Kız Kaçırma, Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/kiz-kacirma-kavgasinda-15-gundem-2817358/",
+        "who": "Tespit Edilmeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.78527,
+          37.15669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Şanlıurfa",
+        "date": "27/01/2019",
+        "death": "Boğma",
+        "name": "Esma Kurt",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/korkunc-itiraf-hamile-esini-oldurup-41096414",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "27/01/2019",
+        "death": "Ateşli Silah",
+        "name": "N.K.",
+        "reason": "Tartışma",
+        "req": "Yok ",
+        "source": "ttp://www.milliyet.com.tr/babaannesini-olduren-torun-amacim-gundem-2818151/",
+        "who": "Torunu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.37516,
+          37.06252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Gaziantep",
+        "date": "28/01/2019",
+        "death": "Darp",
+        "name": "Ayşe Farmati",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/anne-ve-2-cocugun-katili-baba-cikti-gundem-2818718/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.37516,
+          37.06252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Gaziantep",
+        "date": "28/01/2019",
+        "death": "Darp",
+        "name": "Nur El Nude Elalevi",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/anne-ve-2-cocugun-katili-baba-cikti-gundem-2818718/",
+        "who": "Babası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.37516,
+          37.06252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Gaziantep",
+        "date": "28/01/2019",
+        "death": "Darp",
+        "name": "Hanen Elalevi",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/anne-ve-2-cocugun-katili-baba-cikti-gundem-2818718/",
+        "who": "Babası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.50775,
+          37.87089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Konya",
+        "date": "28/01/2019",
+        "death": "Ateşli Silah",
+        "name": "İsmi Bilinmiyor",
+        "reason": "Tespit Edilemeyen",
+        "req": "Tespit Edilemeyen",
+        "source": "ttp://www.milliyet.com.tr/anne-ve-cocuklarinin-olduruldugu-gundem-galeri-2818682/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.50775,
+          37.87089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Konya",
+        "date": "28/01/2019",
+        "death": "Ateşli Silah",
+        "name": "İsmi Bilinmiyor",
+        "reason": "Tespit Edilemeyen",
+        "req": "Tespit Edilemeyen",
+        "source": "ttp://www.milliyet.com.tr/anne-ve-cocuklarinin-olduruldugu-gundem-galeri-2818682/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.16436,
+          39.14805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kırşehir",
+        "date": "28/01/2019",
+        "death": "Kesici Alet",
+        "name": "Perwin Mohammadi",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/evinde-bogazi-kesilmis-halde-gundem-2818660/",
+        "who": "Kocası, Tanıdığı Birileri"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "29/01/2019",
+        "death": "İşkence",
+        "name": "Sem El K.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Tespit Edilemeyen",
+        "source": "ttp://www.milliyet.com.tr/kan-donduran-vahset-iskenceyle-gundem-2819093/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.98706,
+          39.42087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kütahya",
+        "date": "04/02/2019",
+        "death": "Kesici Alet",
+        "name": "Özlem Göçer",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/sokak-ortasinda-dehset-esini-gundem-2822445/http://www.milliyet.com.tr/sokak-ortasinda-esini-defalarca-gundem-2823008/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "19/01/2019",
+        "death": "Ateşli Silah",
+        "name": "Dudu Demirkıran",
+        "reason": "Tartışma, Husumet",
+        "req": "Yok",
+        "source": "ttps://www.evrensel.net/haber/371479/izmirde-iki-grup-arasinda-kavga-cikti-1-kadin-olduruldu",
+        "who": "Tanıdığı Birileri"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.85393,
+          39.92109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ankara",
+        "date": "01/01/2019",
+        "death": "Balkondan düşmeNotlar: Şüpheli Ölüm",
+        "name": " Aigul Intykbayeva",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.yenisafak.com/gundem/kadinin-cigligini-duyanlar-polisi-aradi-ancak-yetisemediler-3428458",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.15872,
+          36.20337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Hatay",
+        "date": "02/01/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Gülistan Aşık",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/hatay-da-cuvalin-icinde-kadin-cesedi-hatay-yerelhaber-3222063/",
+        "who": "Tespit Edlemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.48351,
+          38.72092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kayseri",
+        "date": "05/01/2019",
+        "death": "Ateşli Silah",
+        "name": "Ayşe Yiğit",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.gazetevatan.com/15-yasindaki-cocuk-annesini-yaraladi-1231697-yasam/",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.63415,
+          36.79988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Mersin",
+        "date": "07/01/2019",
+        "death": "Ateşli Silah",
+        "name": "Menekşe A.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/mersin-de-katliam-anne-ve-gundem-2807752/",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.87897,
+          40.9857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ordu",
+        "date": "05/01/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Mevşude Karataş",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/ordu-haberleri/65871076-orduda-yalniz-yasayan-bir-kadin-evinde-olu-bulundu",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.05865,
+          40.18437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bursa",
+        "date": "07/01/2019",
+        "death": "Kesici Alet",
+        "name": "Sibel Dudaklı",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.sabah.com.tr/webtv/haber/bursanin-gemlik-ilcesinde-eski-sevgilisini-ve-kardesini-olduren-katil-zanlisi-yunanistana-kacarken-yakalandi",
+        "who": "Eski Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.07888,
+          37.78519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Denizli",
+        "date": "07/01/2019",
+        "death": "Balkondan düşmeNotlar: Şüpheli Ölüm",
+        "name": "Ayça Songur ",
+        "reason": "Tespit Edilmeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/denizli-haberleri/65909608-katildigi-parti-sonu-olduarkadasinin-evinde-duzenledigi-partiye-katilan-genc-kadin",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.15872,
+          36.20337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Hatay",
+        "date": "15/01/2019",
+        "death": "Kesici Alet",
+        "name": "Rabia Ezer",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sabah.com.tr/yasam/2019/01/15/cesedin-kimligi-kolundaki-dovme-sayesinde-teshis-edildi",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.31982,
+          38.349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Malatya",
+        "date": "12/01/2019",
+        "death": "Ateşli Silah",
+        "name": "Fatma Özdemir",
+        "reason": "Kızını Korurken",
+        "req": "Yok",
+        "source": "ttps://t24.com.tr/haber/yine-kadin-cinayeti-bosanmak-isteyen-esini-ve-kayinvalidesini-av-tufegiyle-vurarak-oldurdu,796861",
+        "who": "Damadı"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.50671,
+          39.78267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Eskişehir",
+        "date": "23/01/2019",
+        "death": "Kesici Alet",
+        "name": "Yurdagül P.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.haber7.com/eskisehir/2812406-annesini-olduren-zanli-yakalandi",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.3432,
+          41.63172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bartın",
+        "date": "13/01/2019",
+        "death": "Kesici Alet",
+        "name": "Gül K.",
+        "reason": "Kıskançlık",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/esini-bicaklayarak-oldurdu-2290354",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "15/01/2019",
+        "death": "Kesici Alet",
+        "name": "R.K.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.ntv.com.tr/turkiye/beyogluda-yanan-evde-oldurulmus-kadin-bulundu,nQhgFpMnXEm4QE63SrvjEA",
+        "who": "Kardeşi, Arkadaşı"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.05865,
+          40.18437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bursa",
+        "date": "18/01/2019",
+        "death": "Kesici Alet",
+        "name": "S.K.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/uyusturucu-kullanmasina-izin-vermeyen-annesini-bicaklayarak-oldurdu-2296192",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.2489,
+          37.07259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Osmaniye",
+        "date": "23/01/2019",
+        "death": "Kesici Alet",
+        "name": "Hürü Açık",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.sabah.com.tr/yasam/2019/01/23/karisini-15-bicak-darbesiyle-oldurup-cesedin-basinda-polisi-aramis",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "27/01/2019",
+        "death": "AsmaNotlar: Şüpheli Ölüm",
+        "name": "Aizada Nambetova",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.f5haber.com/gundem/genc-kadin-olduruldu-mu-haberi-1075447/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "25/01/2019",
+        "death": "Tespit EdilemeyenNotlar: Şüpheli Ölüm",
+        "name": "Tuba Çakıl",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberler.com/kartal-sahilinde-bulunan-kadin-cesedinin-kimligi-11678990-haberi/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "26/01/2019",
+        "death": "Ateşli Silah",
+        "name": "Vildan Kaymaz",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.yeniakit.com.tr/haber/guncelleme-adanada-yasli-kadin-torunu-tarafindan-olduruldu-596886.html",
+        "who": "Torunu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          31.78482,
+          41.4509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Zonguldak",
+        "date": "27/01/2019",
+        "death": "Tespit EdilemeyenNotlar: Şüpheli Ölüm",
+        "name": "Ümran Abacı",
+        "reason": "Tespit Edileyen",
+        "req": "Yok",
+        "source": "ttps://www.posta.com.tr/zonguldak-devrekte-oldurulen-umran-abaci-olayinda-ayrintilar-ortaya-cikiyor-2084877",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "29/01/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "İbite Sem El K.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sabah.com.tr/yasam/2019/01/29/iskenceyle-oldurulmus-kadin-cesedi-bulundu",
+        "who": "Abisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          39.71599,
+          41.00653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Trabzon",
+        "date": "29/01/2019",
+        "death": "Ateşli Silah",
+        "name": "Mehdiye C.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.samsungazetesi.com/trabzon/kadin-av-tufegiyle-olduruldu-h1191085.html",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.36288,
+          37.21563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Muğla",
+        "date": "31/01/2019",
+        "death": "Ateşli Silah",
+        "name": "Fatma Tangaz",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.egehaber.com/mugla/mugla-da-korkunc-son-herkesin-icinde-once-sevgilisini-sonra-h265896.html",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "01/02/2019",
+        "death": "Tespit EdilemeyenNotlar: Şüpheli Ölüm",
+        "name": "Songül G.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.bolgegundem.com/esenyurtta-bir-kadin-evinde-olu-bulundu-717788h.htm",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.37516,
+          37.06252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Gaziantep",
+        "date": "04/02/2019",
+        "death": "Ateşli Silah",
+        "name": "Özden Şahin",
+        "reason": "Miras kavgası",
+        "req": "Yok",
+        "source": "ttps://www.posta.com.tr/gaziantepte-damat-dehseti-3-olu-2-yarali-2086766",
+        "who": "Damadı"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.37516,
+          37.06252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Gaziantep",
+        "date": "04/02/2019",
+        "death": "Ateşli Silah",
+        "name": "Dilek Çakmak",
+        "reason": "Miras kavgası",
+        "req": "Yok",
+        "source": "ttps://www.posta.com.tr/gaziantepte-damat-dehseti-3-olu-2-yarali-2086766",
+        "who": "Akrabası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.05865,
+          40.18437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bursa",
+        "date": "05/02/2019",
+        "death": "Ateşli Silah",
+        "name": "Aynur C.",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttp://www.gunes.com/yasam/kargo-almaya-gitti-kocasi-tarafindan-olduruldu-951931",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.8862,
+          39.64543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Balıkesir",
+        "date": "06/02/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Meryem Baskındağlı",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttps://www.gercekgundem.com/guncel/68714/yine-kadin-cinayeti-bosanmak-uzere-oldugu-esini-oldurdu",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.31982,
+          38.349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Malatya",
+        "date": "06/02/2019",
+        "death": "Tespit EdilemeyenNotlar: Şüpheli Ölüm",
+        "name": "Aysel Zeren ",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/malatya-haberleri/66646558-malatyada-yalniz-yasayan-kadin-evinde-olu-bulundu",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "11/02/2019",
+        "death": "Kesici Alet",
+        "name": "Rabia K.",
+        "reason": "Kıskançlık",
+        "req": "Yok",
+        "source": "ttps://www.sabah.com.tr/yasam/2019/02/11/kiskanclik-cinneti",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.85393,
+          39.92109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ankara",
+        "date": "11/02/2019",
+        "death": "Darp",
+        "name": "Feride Ercan",
+        "reason": "Hayatına Dair Karar Alma",
+        "req": "Yok",
+        "source": "ttps://www.takvim.com.tr/webtv/video/video/muge-anli-canli-yayinda-hikmet-yalcinkayanin-feride-ercani-vahsice-oldurdugu-anlari-anlatti-11-subat",
+        "who": "Sevgilsi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.95185,
+          40.55025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Çorum",
+        "date": "12/02/2019",
+        "death": "Kesici Alet",
+        "name": "Fatma Dibes Sezgin",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.corumhakimiyet.net/asayis/corumda-suriyeli-kadin-ile-esi-bicaklanarak-olduruldu-h7445.html",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          33.5125,
+          39.84058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kırıkkale",
+        "date": "12/02/2019",
+        "death": "Darp",
+        "name": "Sibel Gökbulut",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.superhaber.tv/muge-anli-dehseti-acikladi-sevgilisi-feride-ercani-8-saat-yakan-hikmet-yalcinkaya-konustu-galeri-174659",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.63415,
+          36.79988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Mersin",
+        "date": "17/02/2019",
+        "death": "Tespit EdilemeyenNotlar: Şüpheli Ölüm",
+        "name": "Latife Budak",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.sabah.com.tr/yasam/2019/02/13/kayip-kadinin-dere-kenarinda-cesedi-bulundu",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.63415,
+          36.79988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Mersin",
+        "date": "15/02/2019",
+        "death": "Ateşli Silah",
+        "name": "Kübra Aşkın",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/mersin-haberleri/66870739-kadin-mudur-yardimcisi-yolunu-kesen-eski-esi-tarafindan-olduruldu",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.85393,
+          39.92109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ankara",
+        "date": "16/02/2019",
+        "death": "Ateşli Silah",
+        "name": "Ayten B.",
+        "reason": "Tartışma",
+        "req": "Var",
+        "source": "ttp://www.hurriyet.com.tr/gundem/son-dakika-ankarada-koca-vahseti-cocuklarinin-gozu-onunde-oldurdu-41119159",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.85393,
+          39.92109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ankara",
+        "date": "18/02/2019",
+        "death": "Ateşli Silah",
+        "name": "Döndü Şengül",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/ankarada-koca-vahseti-her-yerde-araniyor-41120907",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.57188,
+          38.73814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Saruhan",
+        "date": "19/02/2019",
+        "death": "Ateşli Silah",
+        "name": "Güllü A.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.saruhanli.gen.tr/haber/dilekte-cinayet-1-olu-1-yarali-24928.html",
+        "who": "Akrabası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.15872,
+          36.20337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Hatay",
+        "date": "22/02/2019",
+        "death": "Tespit EdilemeyenNotlar: Şüpheli Ölüm",
+        "name": "İsmi Bilinmiyor",
+        "reason": "Tespit Edilemeyen",
+        "req": "Tespit Edilemeyen",
+        "source": "ttp://www.hurriyet.com.tr/gundem/hatayda-3-kadin-cesedi-bulundu-41123628",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.15872,
+          36.20337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Hatay",
+        "date": "22/02/2019",
+        "death": "Tespit EdilemeyenNotlar: Şüpheli Ölüm",
+        "name": "İsmi Bilinmiyor",
+        "reason": "Tespit Edilemeyen",
+        "req": "Tespit Edilemeyen",
+        "source": "ttp://www.hurriyet.com.tr/gundem/hatayda-3-kadin-cesedi-bulundu-41123628",
+        "who": "Tespit Edilmeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.15872,
+          36.20337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Hatay",
+        "date": "22/02/2019",
+        "death": "Tespit EdilemeyenNotlar: Şüpheli Ölüm",
+        "name": "İsmi Bilinmiyor",
+        "reason": "Tespit Edilemeyen",
+        "req": "Tespit Edilemeyen",
+        "source": "ttp://www.hurriyet.com.tr/gundem/hatayda-3-kadin-cesedi-bulundu-41123628",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.15872,
+          36.20337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Hatay",
+        "date": "23/02/2019",
+        "death": "Ateşli Silah",
+        "name": "Rabia Tümkaya",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberler.com/hatay-da-cinayet-11773568-haberi/",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.51371,
+          39.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Aralık",
+        "date": "22/02/2019",
+        "death": "YanmaNotlar: Şüpheli Ölüm",
+        "name": "H.K.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haber61.net/arakli/arakli-da-sok-olay-kendini-yakarak-oldurdu-h347797.html",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "22/02/2019",
+        "death": "Yüksekten DüşmeNotlar: Şüpheli Ölüm",
+        "name": "Ruhiye Keser",
+        "reason": " Tespit Edilmeyen",
+        "req": "Yok",
+        "source": "ttps://www.haber24.com/gundem/sultangazi-de-6-kattan-dusen-kadin-oldu-h855440.html",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "03/02/2019",
+        "death": "Tespit Edilmeyen",
+        "name": "Gülseren Ayhan",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/genc-kadinin-supheli-olumu--gundem-2821900/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "02/02/2019",
+        "death": "Ateşli Silah",
+        "name": "Tuğçe Tatar",
+        "reason": "Eve Geç Gelmesi",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/tugce-topraga-verildi-katil-gundem-2821515/",
+        "who": "Babası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "17/03/2019",
+        "death": "Ateşli Silah",
+        "name": "Fatma Erdoğan",
+        "reason": "Boşanma Talebi",
+        "req": "Var. Uzaklaştırma Kararı.",
+        "source": "ttps://www.haberler.com/esini-oldurdugu-aracta-saatlerce-dolastirip-11847316-haberi/?utm_source=Partner&utm_medium=manset&utm_campaign=Milliyet_300x250_Manset",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "18/03/2019",
+        "death": "Ateşli Silah",
+        "name": "Fatma Yıldız",
+        "reason": "Tespit Edilemyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/izmir-de-eniste-dehseti--gundem-2844107/",
+        "who": " Eniştesi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.33734,
+          41.28104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Samsun",
+        "date": "17/03/2019",
+        "death": "Kesici Alet",
+        "name": "Satı Demirci",
+        "reason": "Tatışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/dugununde-annesi-oldurulen-damat--gundem-2843937/",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "17/03/2019",
+        "death": "Ateşli Silah",
+        "name": "Özlem S.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/esenyurt-ta-vahset-site-icinde-gundem-2843860/",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.33734,
+          41.28104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Samsun",
+        "date": "16/05/2019",
+        "death": "Ateşli Silah",
+        "name": "Ayşenur Erçin",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/samsun-da-koca-dehseti-gundem-galeri-2874678/?PAGE=6",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "19/05/2019",
+        "death": "Ateşli Silah",
+        "name": "Gizem Tabak",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/infazin-ardindan-korkunc-itiraf--gundem-2876462/",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.9281,
+          37.58582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kahramanmaraş",
+        "date": "13/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Aslı Yıldız Güçlü",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.ntv.com.tr/turkiye/eski-esinin-silahli-saldirisina-ugrayan-kadin-yasam-mucadelesini-kaybetti,D49BdVglpUOKuqsHfUOWwg",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.9281,
+          37.58582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kahramanmaraş",
+        "date": "04/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Emine Yıldız",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/kayinbiraderinin-esini-cocugunun-gozu-onunde-oldurdu-2423299#",
+        "who": "Akrabası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.63415,
+          36.79988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Mersin",
+        "date": "09/04/2019",
+        "death": "Kesici Alet",
+        "name": "Eda Kaymaklı",
+        "reason": "Kıskançlık",
+        "req": "Yok",
+        "source": "ttps://www.sabah.com.tr/yasam/2019/04/09/eda-ogretmen-kiskanclik-kurbani",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.67465,
+          37.96414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Niğde",
+        "date": "08/04/2019",
+        "death": "Kesici Alet",
+        "name": " Nur Muhammet Berzo ",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberler.com/nigde-agabeyi-tarafindan-oldurulen-irakli-kadin-11929245-haberi/",
+        "who": "Abisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "08/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Ayla Ö.",
+        "reason": "Boşanma Talebi",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/adana-haberleri/68184106-koca-vahsetine-kurban-giden-kadin-ile-kardeslerinin-cenazeleri-teslim-edildisiddet-gordugu",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "08/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Reyhan İrketi",
+        "reason": "Kız kardeşini korumaya çalışırken",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/adana-haberleri/68184106-koca-vahsetine-kurban-giden-kadin-ile-kardeslerinin-cenazeleri-teslim-edildisiddet-gordugu",
+        "who": "Kız kardeşinin kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.78527,
+          37.15669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Şanlıurfa",
+        "date": "10/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Özge Y.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://beyazgazete.com/video/webtv/3-sayfa-15/sanliurfa-da-koca-dehseti-tartistigi-karisini-oldurdu-695093.html",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.05865,
+          40.18437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bursa",
+        "date": "09/04/2019",
+        "death": "Boğma",
+        "name": "Hayat Meşail",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/bursa-da-oldurulen-suriyeli-kadinin-annesi-de-olu-bulundu-2428594",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.05865,
+          40.18437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bursa",
+        "date": "09/04/2019",
+        "death": "Boğma, Darp",
+        "name": "Sabah Meşaıl",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/bursa-da-oldurulen-suriyeli-kadinin-annesi-de-olu-bulundu-2428594",
+        "who": "Damadı"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.53819,
+          38.75795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Afyonkarahisar",
+        "date": "09/04/2019",
+        "death": "Darp",
+        "name": "Mukadder Nogay",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/birlikte-yasadigi-10-cocuk-annesi-kadini-doverek-oldurdu-2428420",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          41.26724,
+          39.90564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Erzurum",
+        "date": "13/04/2019",
+        "death": "Tespit EdilemeyenNotlar: Şüpheli Ölüm",
+        "name": "Gözde Çulhaoğlu",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.yeniakit.com.tr/haber/erzurumda-supheli-olum-706393.html",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.53819,
+          38.75795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Afyonkarahisar",
+        "date": "13/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Aysel Şahin",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://gazetekarinca.com/2019/04/afyonda-kadin-cinayeti-aysel-ve-hatice-sahin-kardesler-silahla-vurularak-olduruldu/",
+        "who": "Abisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.53819,
+          38.75795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Afyonkarahisar",
+        "date": "13/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Hatice Şahin",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://gazetekarinca.com/2019/04/afyonda-kadin-cinayeti-aysel-ve-hatice-sahin-kardesler-silahla-vurularak-olduruldu/",
+        "who": "Abisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.42739,
+          38.61292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Manisa",
+        "date": "19/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Rabia Bayram",
+        "reason": "Tartışma, Ayrılma Talebi",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/sevgilisi-ile-annesini-oldurup-intihar-etti-2437588",
+        "who": "Eski Sevgilsi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.42739,
+          38.61292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Manisa",
+        "date": "19/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Fatma Bayram",
+        "reason": "Kızını korumaya çalışırken",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/sevgilisi-ile-annesini-oldurup-intihar-etti-2437588",
+        "who": "Kızının Eski Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.31982,
+          38.349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Malatya",
+        "date": "20/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Ş.A.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.cnnturk.com/turkiye/malatyada-kayinpederi-tarafindan-vurulan-kadin-oldu",
+        "who": "Kayınpederi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "22/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Dilan Tutucu",
+        "reason": "Kıskançlık",
+        "req": "Yok",
+        "source": "ttp://www.bursahakimiyet.com.tr/haber/genc-kizi-dusmanlariyla-fotograf-cektirdi-diye-oldurdu-284844.html",
+        "who": "Eski Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          39.5468,
+          39.10078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Tunceli",
+        "date": "22/04/2019",
+        "death": "Kesici Alet",
+        "name": "Gülsüm Taş",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/elazig-haberleri/68514274-evinde-oldurulen-kadinin-cenazesi-perteke-gonderildi",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.42739,
+          38.61292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Manisa",
+        "date": "23/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Sultan Çınkır",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.manisakulishaber.com/ulusal/once-hamile-karisini-oldurdu-sonra-da-kendisini-h59793.html",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "25/04/2019",
+        "death": "Kesici Alet",
+        "name": "Sibel Akçalı",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.yeniasir.com.tr/izmir/2019/04/25/annesi-gozleri-onunde-olduruldu",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          41.12791,
+          37.8829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Batman",
+        "date": "25/04/2019",
+        "death": "Ateşli SilahNotlar: Şüpheli Ölüm",
+        "name": "Cemile Aydın",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.cnnturk.com/yerel-haberler/batman/bankaci-cemile-5-gunluk-yasam-savasini-kaybetti-986110",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.39007,
+          40.77629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Sakarya",
+        "date": "28/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Aycan Bozbay",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/sakaryada-kan-donduran-olay-patronunu-esini-ve-kizini-oldurdu-41196751",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.39007,
+          40.77629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Sakarya",
+        "date": "28/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Serra Bozbay",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/sakaryada-kan-donduran-olay-patronunu-esini-ve-kizini-oldurdu-41196751",
+        "who": "Babası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.78527,
+          37.15669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Şanlıurfa",
+        "date": "27/04/2019",
+        "death": "Kesici Alet",
+        "name": "Ayşe İ.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.karar.com/guncel-haberler/sanliurfada-bir-kadin-kocasi-tarafindan-vahsice-olduruldu-1193222",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.50775,
+          37.87089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Konya",
+        "date": "29/04/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "İsmi Bilinmiyor",
+        "reason": "Tespit Edilemeyen",
+        "req": "Tespit Edilemeyen",
+        "source": "ttp://kanalb.com.tr/haber.php?HaberNo=122665",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "29/04/2019",
+        "death": "Boğma",
+        "name": "Hatice Ü.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.evrensel.net/haber/378419/izmirde-kadin-cinayeti-esini-uyurken-bogarak-oldurdu",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.94957,
+          40.77542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kocaeli",
+        "date": "30/04/2019",
+        "death": "Ateşli Silah",
+        "name": "Dilek Ö.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.ntv.com.tr/turkiye/iliskisine-karsi-cikan-anne-ve-babasini-oldurdu,L5tTqHcd0EOS11tCJah_LA",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "30/04/2019",
+        "death": "Ateşli Silah",
+        "name": "İlkay Sivaslı",
+        "reason": "Ölmek istemesi",
+        "req": "Yok",
+        "source": "ttps://www.haberturk.com/ilkay-ogretmen-cinayetinde-sok-gelisme-2447851",
+        "who": "Kiralık katil"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.78527,
+          37.15669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Şanlıurfa",
+        "date": "24/04/2019",
+        "death": "Ateşli SilahNotlar: Şüpheli Ölüm",
+        "name": "Esra K.",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.iyigunler.net/guvenlik/esra-nin-gizemli-olumu-intihar-mi-cinayet-mi-h333611.html",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          39.5468,
+          39.10078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Tunceli",
+        "date": "21/05/2019",
+        "death": "Ateşli Silah, Darp",
+        "name": "Sakine Oğuz",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/3-cocuk-annesini-oldurup-cenaze-gundem-2877487/",
+        "who": "Tanımadığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.67465,
+          37.96414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Niğde",
+        "date": "21/05/2019",
+        "death": "Ateşli Silah",
+        "name": "Fındık Ş.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/oz-ogluna-para-gonderilmesini-gundem-2877467/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.51506,
+          40.97864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Tekirdağ",
+        "date": "23/05/2019",
+        "death": "Yüksekten Atma",
+        "name": "Y.Y.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/intihar-ettigi-iddia-edilmisti-erkek-arkadasi-tutuklandi-41223452",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "23/05/2019",
+        "death": "Ateşli Silah",
+        "name": "Ayşegül Ç.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/katil-kocadan-sok-sozler-sadece-gundem-2878691/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "23/05/2019",
+        "death": "Ateşli Silah",
+        "name": "Fehime Küçük",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/katil-kocadan-sok-sozler-sadece-gundem-2878691/",
+        "who": "Damadı"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "23/05/2019",
+        "death": "Boğma",
+        "name": "Sevdiye Tosun",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/annesini-oldurmustu-kan-donduran-gundem-2878672/",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          40.2107,
+          37.92445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Diyarbakır",
+        "date": "27/05/2019",
+        "death": "Ateşli Silah",
+        "name": "Merve Ünal",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/once-o-silah-cekti--gundem-2880685/",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.48351,
+          38.72092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kayseri",
+        "date": "26/05/2019",
+        "death": "Ateşli Silah",
+        "name": "Zeynep Katan",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/evlerinde-olu-bulunan-57-yillik-gundem-2880390/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "25/05/2019",
+        "death": "Boğma",
+        "name": "Ayşe Özlem Bağdemir",
+        "reason": "Tespit Edilmeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/uyuyan-esinin-agzini-bantladi--gundem-2879891/",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          40.2107,
+          37.92445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Diyarbakır",
+        "date": "20/05/2019",
+        "death": "Ateşli Silah",
+        "name": "Müzeyyen Boylu Issı",
+        "reason": "Boşanma Talebi, Tartışma",
+        "req": "Var",
+        "source": "ttps://www.evrensel.net/haber/379728/bosanma-asamasindaki-esi-muzeyyen-boyluyu-olduren-katil-tutuklandi",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "30/05/2019",
+        "death": "Kesici Alet",
+        "name": "Tatiana Açan",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/pes-dedirten-savunma-bana-gundem-2882330/",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.36288,
+          37.21563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Muğla",
+        "date": "02/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Şengül G.",
+        "reason": "Gelinini korumaya çalışırken",
+        "req": "Yok",
+        "source": "ttps://www.sozcu.com.tr/2019/gundem/muglada-kadin-cinayeti-bicakladi-ates-acti-evi-ve-arabayi-yakip-kacti-5026234/",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          40.2107,
+          37.92445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Diyarbakır",
+        "date": "02/06/2019",
+        "death": "Kesici Alet",
+        "name": "Aygül Günler",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.cnnturk.com/turkiye/diyarbakirda-koca-vahsetihttp://www.milliyet.com.tr/akilalmaz-cinayet-plani-once-gundem-2892237/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "13/06/2019",
+        "death": "Darp",
+        "name": "Elif Özden Uzun",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/karisinin-ellerini-baglayip-gundem-2888786/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.27052,
+          40.65698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Yalova",
+        "date": "13/06/2019",
+        "death": "Darp, Kesici Alet",
+        "name": "Vicdan Ürgüp",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/dunurlerin-kavgasi-kanli-bitti-1-gundem-2888650/",
+        "who": "Kızının kocasının akrabaları"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          33.2237,
+          37.1807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Karaman",
+        "date": "12/06/2019",
+        "death": "Kesici Alet",
+        "name": "Tuğba Ekiz",
+        "reason": "Boşanma Talebi, Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/esini-oldurdu-baldizini-gundem-2888403/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.9281,
+          37.58582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kahramanmaraş",
+        "date": "16/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Münevver Delibaşı",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/uzman-cavus-ve-esi-evlerinde-basla-gundem-2890191/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.70924,
+          36.87896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Antalya",
+        "date": "21/05/2019",
+        "death": "Boğma",
+        "name": "Anneliese Ilse Gansert",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.haberler.com/cinayeti-jandarmanin-kurdugu-ozel-ekip-cozdu-12069203-haberi/",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.98772,
+          41.06071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İstanbul",
+        "date": "20/05/2019",
+        "death": "Yanma",
+        "name": "Feride Genç",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.haber46.com.tr/guncel/yanginda-oldu-sanilan-kadin-cinayete-kurban-gitmis-h360055.html",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.94957,
+          40.77542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kocaeli",
+        "date": "18/05/2019",
+        "death": "Kesici Alet",
+        "name": "Özgü O.",
+        "reason": "Kıskançlık",
+        "req": "Yok",
+        "source": "ttps://www.haberler.com/tartistigi-esini-defalarca-bicaklayarak-oldurdu-12062314-haberi/",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.06309,
+          37.61403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Çine",
+        "date": "19/05/2019",
+        "death": "Kesici Alet",
+        "name": "Nergis Y.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://t24.com.tr/haber/aydin-da-kadin-cinayeti-tartistigi-esini-15-yerinden-bicaklayarak-oldurdu,822060",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.53819,
+          38.75795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Afyonkarahisar",
+        "date": "20/05/2019",
+        "death": "Kesici Alet",
+        "name": "Sultan S.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.afyonkarahisar.com.tr/haber/76460/karisini-oldurdu-tutuklandi.html",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.83252,
+          37.84087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Aydın",
+        "date": "22/05/2019",
+        "death": "Ateşli Silah",
+        "name": "Seher Özer",
+        "reason": "Barışma Talebi",
+        "req": "Yok",
+        "source": "ttps://www.sesgazetesi.com.tr/asayis/sevgilisini-oldurup-intihar-etti/32012",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.3432,
+          41.63172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bartın",
+        "date": "24/05/2019",
+        "death": "Kesici Alet",
+        "name": "Hatice Dabaz",
+        "reason": "Tespit Edilmeyen",
+        "req": "Yok",
+        "source": "ttp://www.memleket.com.tr/bartinda-annesini-olduren-kisi-gozaltina-alindi-1759733h.htm",
+        "who": "Oğlu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.33734,
+          41.28104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Samsun",
+        "date": "28/05/2019",
+        "death": "Tespit Edilemeyen",
+        "name": "Ecrin Kurnaz",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.karar.com/hayat-haberleri/ecrin-bebegin-cesedi-nerede-nasil-bulundu-ecrin-bebek-cinsel-tacize-mi-ugradi-kahreden-haber-geldi-1224635#",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.04059,
+          39.91929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Iğdır",
+        "date": "02/05/2019",
+        "death": "Ateşli Silah",
+        "name": "Ayşe Zeynep P.",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.hurriyet.com.tr/gundem/kizlari-evdeyken-olduruldu-katil-koca-araniyor-41201036",
+        "who": "Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "21/02/2019",
+        "death": "Aç bırakılma, İltihapNotlar: Şüpheli Ölüm",
+        "name": "Kadriye San",
+        "reason": " Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.korkusuzmedya.com/yasam/muge-anli-da-soke-eden-cinayet-kadriye-san-i-cinler-mi-h172540.html",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.01723,
+          39.75034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Sivas",
+        "date": "09/05/2019",
+        "death": "Ateşli Silah",
+        "name": "Gülşen Gündüz",
+        "reason": "Para",
+        "req": "Yok",
+        "source": "ttps://www.ensonhaber.com/usakta-kayip-kadin-vurularak-oldurulmus-halde-bulundu.html",
+        "who": "Tanımadığı Birileri"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.70924,
+          36.87896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Antalya",
+        "date": "04/05/2019",
+        "death": "Kesici Alet",
+        "name": "Gülhanım Doğu",
+        "reason": "Kendi hayatına karar vermek istediği için",
+        "req": "Yok",
+        "source": "ttp://haber.sol.org.tr/toplum/antalyada-kadin-cinayeti-eski-esini-bicaklayarak-oldurdu-262305",
+        "who": "Eski Kocası "
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.32496,
+          36.98566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Adana",
+        "date": "27/05/2019",
+        "death": "Darp",
+        "name": "İsmi Bilinmiyor",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttps://www.ensonhaber.com/esi-tarafindan-darbedilen-kadin-bebegini-kaybetti.html",
+        "who": "Babası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.98706,
+          39.42087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Kütahya",
+        "date": "31/05/2019",
+        "death": "Boğma",
+        "name": "Fatma Yılmaz",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttps://www.egehaber.com/kutahya/kutahya-da-kan-donduran-cinayet-kadini-oldurup-polise-teslim-h279369.html",
+        "who": "Sevgilisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.85393,
+          39.92109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Ankara",
+        "date": "21/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Fidan Altundağ",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/ankara-da-komsular-birbirine-gundem-2892924/",
+        "who": "Tanıdığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "21/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Habibe Çevik",
+        "reason": "Kıskançlık",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/eski-esi-ile-baldizini-kiskanclik-gundem-2892881/",
+        "who": "Eski Kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.14187,
+          38.42619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "İzmir",
+        "date": "21/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Fatma Akdağ",
+        "reason": "Kıskançlık",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/eski-esi-ile-baldizini-kiskanclik-gundem-2892881/",
+        "who": "Kız kardeşinin eski kocası"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.05865,
+          40.18437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Bursa",
+        "date": "20/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Nazan Kırkgöz",
+        "reason": "Tartışma",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/bos-arsadaki-cinayetin-sirri-gundem-2892351/",
+        "who": "Tanımadığı Birisi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.51506,
+          40.97864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Tekirdağ",
+        "date": "20/06/2019",
+        "death": "Ateşli Silah",
+        "name": "Ayşe Yalçınkaya",
+        "reason": "Tespit Edilemeyen",
+        "req": "Yok",
+        "source": "ttp://www.milliyet.com.tr/dehset-evi-kari-koca-olu-bulundu-gundem-2892103/",
+        "who": "Tespit Edilemeyen"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
